@@ -4,8 +4,6 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![ATS Visualization](https://via.placeholder.com/800x400.png?text=ATS+Scoring+Process)
-
 ## Key Features ✨
 - **PDF Resume Parsing**: Converts PDF resumes to text using OCR (Optical Character Recognition)
 - **Job Description Analysis**: Processes job descriptions to identify key requirements
