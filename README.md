@@ -97,29 +97,3 @@ patterns = [
 
 ## License 📄
 MIT License - See [LICENSE](LICENSE) for details
-
-## Contact 📧
-For support/questions:  
-[![Email](https://img.shields.io/badge/Contact-Email%20Me-blue?logo=minutemailer)](mailto:your.email@example.com)
-```
-
-This README includes:
-1. Clear feature breakdown
-2. Installation instructions for different OS
-3. Usage examples with code snippets
-4. Configuration options
-5. Dependency matrix
-6. Contribution guidelines
-7. Badges for visual appeal
-8. Responsive formatting
-
-You should:
-1. Replace placeholder email/contact info
-2. Add actual project URL in clone command
-3. Add real visualization image URL
-4. Update license if not using MIT
-5. Add testing instructions if applicable
-6. Include sample input/output files if needed
-
----
-Answer from Perplexity: pplx.ai/share
